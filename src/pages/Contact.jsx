@@ -27,12 +27,14 @@ export default function Contact() {
         <div className="contact-info">
          <h4>Our Address</h4>
          <ul className="contact-address">
-          <li><i className="fa fa-map-marker fa-lg"></i>&nbsp; 100 Limpbiscayne Blvd. (North) 17st Floor
-           ,<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New World Tower New York
-           ,<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New York, USA, 33148</li>
-          <li><i className="fa fa-phone"></i>&nbsp; 1 -234 -456 -7890</li>
-          <li><i className="fa fa-print"></i>&nbsp; 1 -234 -456 -7890</li>
-          <li><i className="fa fa-envelope"></i> info@yourdomain.com</li>
+          <li><i className="fa fa-map-marker fa-lg"></i><h4>HEAD OFFICE</h4>&nbsp; Central Zone C, Block 2 Shop 14 & 19
+           ,<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aspamda plaza Tradefair Complex
+           ,<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Badagry Express Way Ojo, Lagos</li>
+
+           <li><i className="fa fa-map-marker fa-lg"></i><h4>BRANCH OFFICE</h4>&nbsp; Nnewi Plaza Shop 9, Aspamda Lagos.</li>
+          <li><i className="fa fa-phone"></i><a href="tel: 0803 550 2065">0803 550 2065</a>&nbsp; </li>
+          <li><i className="fa fa-print"></i><a href="tel: 0803 381 5702">0803 381 5702</a>&nbsp; </li>
+          <li><i className="fa fa-envelope"></i><a href="mailto: limsonickenterprises@gmail.com">limsonickenterprises@gmail.com</a> </li>
           <li><i className="fa fa-skype"></i> Unika-Design</li>
          </ul>
         </div>

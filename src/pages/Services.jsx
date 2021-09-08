@@ -25,7 +25,7 @@ export default function Services() {
         <a href="#" className="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0">
          <span className="rotate-box-icon"><i className="fa fa-mobile"></i></span>
          <div className="rotate-box-info">
-          <h4>App Development</h4>
+          <h4>Heavy Duty Jack</h4>
           <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
          </div>
         </a>
@@ -35,7 +35,7 @@ export default function Services() {
         <a href="#" className="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0.2s">
          <span className="rotate-box-icon"><i className="fa fa-pie-chart"></i></span>
          <div className="rotate-box-info">
-          <h4>Ui Design</h4>
+          <h4>Fire Extinguisher</h4>
           <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
          </div>
         </a>
@@ -45,7 +45,7 @@ export default function Services() {
         <a href="#" className="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0.4s">
          <span className="rotate-box-icon"><i className="fa fa-cloud"></i></span>
          <div className="rotate-box-info">
-          <h4>Cloud Hosting</h4>
+          <h4>Battery</h4>
           <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
          </div>
         </a>
@@ -55,7 +55,7 @@ export default function Services() {
         <a href="#" className="rotate-box-2 square-icon text-center wow zoomIn" data-wow-delay="0.6s">
          <span className="rotate-box-icon"><i className="fa fa-pencil"></i></span>
          <div className="rotate-box-info">
-          <h4>Coding Pen</h4>
+          <h4>Car Accessories</h4>
           <p>Lorem ipsum dolor sit amet set, consectetur utes anet adipisicing elit, sed do eiusmod tempor incidist.</p>
          </div>
         </a>
